@@ -1,5 +1,4 @@
 # a0
-The logic for the first code was initially discussed with Yash Shah, mail: yashah@iu.edu.
 
 This report and the programs are made by Ritwik Budhiraja, mail ID: rbudhira@iu.edu.
 
